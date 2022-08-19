@@ -2,6 +2,7 @@
     height: 100px;
     width: 100%;
     position: fixed;
+    margin: 0 0 50px 0;
     top: 0;
     background-color:aliceblue;
 }
@@ -44,9 +45,10 @@
   }
 .main-body{
     background-color:lightcyan;
-    margin: 0 0 0 0;
+    height: 700px;
+  
     width: 100%;
-    height: 375px;
+   
 }
 .ook {
     text-decoration:underline ;
@@ -144,6 +146,7 @@ h1 {
     font-family: 'Sacramento', serif; 
     font-size:80px;
     color:purple;
+    margin: 100px auto 50px auto;
 }
 h3 {
     color:darkred;

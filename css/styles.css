@@ -45,7 +45,7 @@
   }
 .main-body{
     background-color:lightcyan;
-    height: 700px;
+    height:700px;
   
     width: 100%;
    
@@ -146,7 +146,7 @@ h1 {
     font-family: 'Sacramento', serif; 
     font-size:80px;
     color:purple;
-    margin: 100px auto 50px auto;
+    margin: 100px;
 }
 h3 {
     color:darkred;
